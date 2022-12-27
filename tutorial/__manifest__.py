@@ -7,7 +7,7 @@
     'author': 'CHEPSS',
     'website': 'https://www.chepss.cl',
     'data':[
-        'views/menu.xml'
+        'views/menu.xml',
     ],
     'demo':[
         

@@ -2,5 +2,5 @@
 <odoo>
     <menuitem id="tutorial_root"
               name="Tutorial"
-              sequence="0">
+              sequence="0"/>
 </odoo>        

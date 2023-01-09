@@ -1,15 +1,20 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Tutorial',
-    'sumary': """Módulo Tutorial""",
-    'description':"""
-    """,
+    'version': '1.0.0',
+    'category': 'Tuto',
     'author': 'CHEPSS',
-    'website': 'https://www.chepss.cl',
+    'sequence': -100,
+    'sumary': 'Módulo Tutorial',
+    'description':"""Modulo Tutorial""",
+    'depends': [],
     'data':[
         'views/menu.xml',
     ],
-    'demo':[
-        
-    ]    
+    #'website': 'https://www.chepss.cl',
+    'demo':[   
+    ]
+    'aplication': True,
+    'auto_install': False,
+    'license': False,
 }

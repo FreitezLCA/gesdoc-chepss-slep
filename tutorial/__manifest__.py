@@ -13,7 +13,7 @@
     ],
     #'website': 'https://www.chepss.cl',
     'demo':[   
-    ]
+    ],
     'aplication': True,
     'auto_install': False,
     'license': False,
